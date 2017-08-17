@@ -1,0 +1,14 @@
+{
+  "name": "claim!claim",
+  "version": "1.0.0",
+  "description": "A role claimer discord bot.",
+  "main": "index.js",
+  "repository": "https://github.com/moriczgergo/claimclaim/",
+  "author": "skiilaa",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "discord.js": "^11.1.0",
+    "erlpack": "^0.1.2",
+    "uws": "^8.14.1"
+  }
+}
